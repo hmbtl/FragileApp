@@ -1,0 +1,47 @@
+[
+    {
+        "id":1,
+        "city":"Istanbul, Turkey",
+        "airport":"IST - Atatürk Airport"
+    },
+    {
+        "id":2,
+        "city":"Copenhagen, Denmark",
+        "airport":"CPH - Kastrup Airport"
+    },
+    {
+        "id":3,
+        "city":"Helsinki, Finland",
+        "airport":"HEL - Helsinki-Vantaa Airport"
+    },
+    {
+        "id":4,
+        "city":"Berlin, Germany",
+        "airport":"BER - Brandenburg Airport"
+    },
+    {
+        "id":5,
+        "city":"Amsterdam, Netherlands",
+        "airport":"AMS - Schiphol Airport"
+    },
+    {
+        "id":6,
+        "city":"Paris, France",
+        "airport":"CDG - Charles de Gaulle Airport"
+    },
+    {
+        "id":7,
+        "city":"Baku, Azerbaijan",
+        "airport":"GDY - Haydar Aliyev Airport"
+    },
+    {
+        "id":8,
+        "city":"New York, United States",
+        "airport":"JFK - John F.Kennedy Airport"
+    },
+    {
+        "id":9,
+        "city":"London, United Kingdom",
+        "airport":"LHR - Heathrow Airport"
+    }
+]
